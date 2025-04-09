@@ -1,18 +1,33 @@
-## Getting Started
+# 💰 Projeto ContaBanco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte do desafio do módulo de Sintaxe em Java, no **Bootcamp Bradesco - Java Cloud Native da DIO (Digital Innovation One)**. O objetivo é praticar os conceitos básicos da linguagem, como declaração de variáveis, uso da classe `Scanner`, entrada de dados via terminal e concatenação de strings.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Recebe informações de uma conta bancária via terminal:
+  - Número da conta (int)
+  - Agência (String)
+  - Nome do cliente (String)
+  - Saldo (double)
+- Exibe uma mensagem personalizada com os dados informados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+##  Exemplo de uso
+Por favor, digite o número da conta: 1234
+Por favor, digite o número da Agência: 067-9
+Por favor, digite o nome do cliente: CLARA ANDRADE
+Por favor, digite o saldo: 1598.49
 
-## Dependency Management
+Olá CLARA ANDRADE, obrigado por criar uma conta em nosso banco, sua agência é 067-9, conta 1234 e seu saldo 1598.49 já está disponível para saque.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 👩‍💻 Autor(a)
+
+Desenvolvido por Maria Clara de Andrade Paiva durante o Bootcamp da DIO 🚀
+
+LinkedIn: [https://www.linkedin.com/in/mariaclara-andradep/]  
+GitHub: [https://github.com/MariaClaraAndrade]
