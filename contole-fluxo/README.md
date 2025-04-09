@@ -33,3 +33,9 @@ Este diretório contém pequenos projetos e exercícios práticos desenvolvidos 
 
 👩‍💻 Objetivo
 Este projeto serve como uma coleção de estudos e testes feitos durante minha jornada de aprendizado em Java, focando nos fundamentos da linguagem e boas práticas de organização de código.
+
+👩‍💻 Autor(a)
+Desenvolvido por Maria Clara de Andrade Paiva durante o Bootcamp da DIO 🚀
+
+LinkedIn: [https://www.linkedin.com/in/mariaclara-andradep/]
+GitHub: [https://github.com/MariaClaraAndrade]
